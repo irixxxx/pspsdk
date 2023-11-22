@@ -1,0 +1,11 @@
+<map id="kernel/pspstdio_kernel.h" name="kernel/pspstdio_kernel.h">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,168,31"/>
+<area shape="rect" id="node2" href="$psptypes_8h.html" title=" " alt="" coords="173,372,257,397"/>
+<area shape="rect" id="node4" href="$pspkerneltypes_8h.html" title=" " alt="" coords="93,299,211,324"/>
+<area shape="rect" id="node5" href="$pspiofilemgr_8h.html" title=" " alt="" coords="243,79,344,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="183,445,247,471"/>
+<area shape="rect" id="node6" href="$pspiofilemgr__fcntl_8h.html" title=" " alt="" coords="175,152,308,177"/>
+<area shape="rect" id="node7" href="$pspiofilemgr__stat_8h.html" title=" " alt="" coords="227,225,357,251"/>
+<area shape="rect" id="node8" href="$pspiofilemgr__dirent_8h.html" title=" " alt="" coords="383,152,523,177"/>
+<area shape="rect" id="node9" href="$pspiofilemgr__devctl_8h.html" title=" " alt="" coords="435,225,578,251"/>
+</map>

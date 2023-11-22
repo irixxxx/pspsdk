@@ -1,0 +1,13 @@
+<map id="sdk/memory.c" name="sdk/memory.c">
+<area shape="rect" id="node1" title=" " alt="" coords="75,5,177,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,79,68,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="92,79,160,104"/>
+<area shape="rect" id="node4" href="$pspsdk_8h.html" title=" " alt="" coords="185,79,259,104"/>
+<area shape="rect" id="node5" href="$pspkerneltypes_8h.html" title=" " alt="" coords="79,225,197,251"/>
+<area shape="rect" id="node8" href="$pspmodulemgr_8h.html" title=" " alt="" coords="21,152,138,177"/>
+<area shape="rect" id="node9" href="$pspmoduleinfo_8h.html" title=" " alt="" coords="320,299,436,324"/>
+<area shape="rect" id="node10" href="$pspthreadman_8h.html" title=" " alt="" coords="213,152,327,177"/>
+<area shape="rect" id="node6" href="$psptypes_8h.html" title=" " alt="" coords="193,299,277,324"/>
+<area shape="rect" id="node7" title=" " alt="" coords="203,372,267,397"/>
+<area shape="rect" id="node11" href="$pspdebug_8h.html" title=" " alt="" coords="273,225,361,251"/>
+</map>

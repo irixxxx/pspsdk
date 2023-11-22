@@ -1,0 +1,13 @@
+<map id="libcglue/sys/socket.h" name="libcglue/sys/socket.h">
+<area shape="rect" id="node1" title=" " alt="" coords="402,5,545,31"/>
+<area shape="rect" id="node2" href="$glue_8c.html" title=" " alt="" coords="5,79,109,104"/>
+<area shape="rect" id="node3" href="$netdb_8c.html" title=" " alt="" coords="336,225,448,251"/>
+<area shape="rect" id="node4" href="$in_8h.html" title=" " alt="" coords="407,79,540,104"/>
+<area shape="rect" id="node6" href="$socket_8c.html" title=" " alt="" coords="683,225,802,251"/>
+<area shape="rect" id="node10" href="$pspnet__inet_8h.html" title=" " alt="" coords="827,152,949,177"/>
+<area shape="rect" id="node5" href="$inet_8h.html" title=" " alt="" coords="571,152,701,177"/>
+<area shape="rect" id="node7" href="$tcp_8h.html" title=" " alt="" coords="184,152,325,177"/>
+<area shape="rect" id="node8" href="$pspnet__resolver_8h.html" title=" " alt="" coords="400,152,547,177"/>
+<area shape="rect" id="node9" href="$inethelper_8c.html" title=" " alt="" coords="522,225,635,251"/>
+<area shape="rect" id="node11" href="$select_8c.html" title=" " alt="" coords="831,225,945,251"/>
+</map>

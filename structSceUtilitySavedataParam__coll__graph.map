@@ -1,0 +1,7 @@
+<map id="SceUtilitySavedataParam" name="SceUtilitySavedataParam">
+<area shape="rect" id="node1" title="Structure to hold the parameters for the sceUtilitySavedataInitStart function." alt="" coords="576,103,747,128"/>
+<area shape="rect" id="node2" href="$structpspUtilityDialogCommon.html" title=" " alt="" coords="287,5,451,31"/>
+<area shape="rect" id="node3" href="$structPspUtilitySavedataSFOParam.html" title="title, savedataTitle, detail: parts of the unencrypted SFO data, it contains what the VSH and standar..." alt="" coords="269,55,468,80"/>
+<area shape="rect" id="node4" href="$structPspUtilitySavedataFileData.html" title=" " alt="" coords="5,184,187,209"/>
+<area shape="rect" id="node5" href="$structPspUtilitySavedataListSaveNewData.html" title=" " alt="" coords="276,211,461,251"/>
+</map>
